@@ -1,0 +1,1 @@
+# Elevate_internship_task_7_Sales_Summary_SQLite
